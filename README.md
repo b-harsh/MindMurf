@@ -1,4 +1,4 @@
-<img width="857" height="470" alt="Screenshot 2025-07-13 174852" src="https://github.com/user-attachments/assets/71079979-d482-4a10-a79e-256c29471449" />How to Setup 
+How to Setup 
 
 Start the Frontend:
 
